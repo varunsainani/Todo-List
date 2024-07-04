@@ -1,0 +1,28 @@
+.inputBox {
+    padding: 0.2rem 0rem 0.2rem 0.2rem;
+    border: none;
+}
+
+.btn {
+    padding: 0.2rem 0.3rem 0.2rem 0.2rem;
+    background-color: bisque;
+    border: none;
+}
+
+.todosSingleText {
+    width: 10rem;
+    padding: 6px;
+    word-break: break-all;
+    border-radius: 5px;
+    display: flex;
+    flex-direction: column;
+    background-color: rgb(50, 195, 205);
+    margin-top: 1rem;
+}
+
+.reactIcons {
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.3rem;
+    background-color: rgb(50, 195, 205);
+}
