@@ -9,6 +9,10 @@
     border: none;
 }
 
+.btn:hover {
+    cursor: pointer;
+}
+
 .todosSingleText {
     width: 10rem;
     padding: 6px;
@@ -25,4 +29,8 @@
     justify-content: space-between;
     font-size: 1.3rem;
     background-color: rgb(50, 195, 205);
+}
+
+.reactIcons:hover {
+    cursor: pointer;
 }
